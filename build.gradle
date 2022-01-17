@@ -53,7 +53,7 @@ task zip(type: Zip) {
 	baseName "trainSchedule"
 }
 
-task reet() {
-        println("hello from GreetingTask")
+task greet() {
+        println("Successfully built the app!")
     }
 
